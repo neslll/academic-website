@@ -3,52 +3,53 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-first_name: Shiung Wu
+  - course: PhD in Psychology
+    institution: University of Southampton, UK
+    year: 2024
+  - course: MSc in Foundations in Clinical Psychology
+    institution: University of Southampton, UK
+    year: 2018
+  - course: BSc in Psychology
+    institution: Ege University, Türkiye
+    year: 2015
+first_name: Neslihan
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- Virtual Reality
+- Anxiety Disorders
+- Digital Mental Health
+- Interactive Data Analysis
+last_name: Özhan
+name_pronunciation: Neslihan Özhan
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Southampton
+  url: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-psychology
+role: Research Assistant
 skills:
 - items:
   - description: ""
-    icon: python
+    icon: r
     icon_pack: fab
-    name: Python
-    percent: 80
+    name: RStudio
+    percent: 70
   - description: ""
     icon: chart-line
     icon_pack: fas
-    name: Data Science
-    percent: 100
+    name: Interactive Data Analysis
+    percent: 50
   - description: ""
     icon: database
     icon_pack: fas
-    name: SQL
-    percent: 40
+    name: Virtual Reality
+    percent: 60
   name: Technical
-- color: '#eeac02'
+- color: 'green'
   color_border: '#f0bf23'
   items:
   - description: ""
-    icon: person-hiking
+    icon: coffee
     icon_pack: fas
-    name: Hiking
+    name: Coffee
     percent: 60
   - description: ""
     icon: cat
@@ -70,24 +71,26 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/neslhanozhan
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=yvCOTvMAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/neslll
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+  link: www.linkedin.com/in/nesliozhan4435
+
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: 吳健雄
+title: 
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an early career researcher. My research interests include digital mental health, adaptations of Virtual Reality to anxiety disorders in terms of their feasibility.
+
 {style="text-align: justify;"}
